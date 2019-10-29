@@ -39,7 +39,7 @@ module = GetParams("module")
 """
 if module == "AcceptAlert":
     web = GetGlobals('web')
-    driver: webdriver = web.driver_list[web.driver_actual_id]
+    driver = web.driver_list[web.driver_actual_id]
 
     option = GetParams("option")
     content = GetParams("content")
