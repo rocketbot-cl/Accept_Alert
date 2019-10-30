@@ -25,6 +25,7 @@ Para instalar librerias se debe ingresar por terminal a la carpeta "libs"
 """
 
 import requests
+import unicodedata
 from time import sleep
 
 from selenium import webdriver
@@ -49,7 +50,7 @@ if module == "AcceptAlert":
         alert = driver.switch_to.alert
 
         if res_:
-            tmp = alert.text
+            tmp = unicodedata.normalize('NFKD', alert.text).encode("ascii", "ignore").decode()
             SetVar(res_, tmp)
 
         if content:
