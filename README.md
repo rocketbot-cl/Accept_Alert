@@ -16,3 +16,6 @@ Module for accept or dismiss a browser alert
 <ul>
   <li><strong><a href="http://opensource.org/licenses/mit-license.php" rel="nofollow">MIT license</a></strong></li>
 </ul>  
+
+### 1-Dic-2020
+- WaitAlert: Wait for an alert the defined seconds.
