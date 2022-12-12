@@ -1,3 +1,3 @@
 ## acceptAlert
 
- view the documentation at: https://github.com/rocketbot-cl/SAPB1/blob/master/example/Manual_acceptAlert.pdf
+ view the documentation at: https://github.com/rocketbot-cl/acceptAlert/blob/master/example/Manual_acceptAlert.pdf
