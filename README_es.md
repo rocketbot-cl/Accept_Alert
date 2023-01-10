@@ -2,9 +2,9 @@
   
 Módulos para aceptar o rechazar una alerta en el navegador  
 
-## How to install this module
+## Como instalar este módulo
   
-__Download__ and __install__ the content in 'modules' folder in Rocketbot path  
+__Descarga__ e __instala__ el contenido en la carpeta 'modules' en la ruta de Rocketbot.  
 
 
 
@@ -12,10 +12,10 @@ __Download__ and __install__ the content in 'modules' folder in Rocketbot path
 
 
 1. AcceptAlert  
-Confirm o dismiss an alert
+Confirma o cancela una alerta
 
-2. Wait Alert  
-Wait for an alert the defined seconds  
+2. Esperar Alerta  
+Espera por una alerta los segundos definidos  
 
 
 
